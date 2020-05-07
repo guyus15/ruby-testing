@@ -1,0 +1,14 @@
+--- !ruby/object:Hangman
+lives_remaining: 3
+word: SPURN
+guessed_letters:
+- E
+- G
+- I
+- O
+- A
+- T
+- R
+correct_guesses:
+- R
+win_check_num: 1
